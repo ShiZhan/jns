@@ -11,7 +11,7 @@ if ! [ $(id -u) = 0 ]; then
 fi
 
 #Python 3 version to install
-version="3.5.1"
+version="3.5.2"
 
 #------------------------------------------------------
 apt-get install -y build-essential libncursesw5-dev
