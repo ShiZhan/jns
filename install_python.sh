@@ -14,10 +14,7 @@ fi
 version="3.6.0"
 
 #------------------------------------------------------
-apt-get install -y build-essential libncursesw5-dev
-apt-get install -y libgdbm-dev libc6-dev
-apt-get install -y zlib1g-dev libsqlite3-dev tk-dev
-apt-get install -y libssl-dev openssl
+apt-get install -y build-essential libncursesw5-dev libgdbm-dev libc6-dev zlib1g-dev libsqlite3-dev tk-dev libssl-dev openssl wget
 #------------------------------------------------------
 
 wget "https://www.python.org/ftp/python/$version/Python-$version.tgz"
