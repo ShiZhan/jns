@@ -23,6 +23,6 @@ docker exec -it tf jupyter notebook list
 Thanks
 ---
 
-[Jupyter Notebook Server on Raspberry Pi](https://github.com/kleinee/jns)
-[Tensorflow for Raspberry Pi](https://github.com/samjabrahams/tensorflow-on-raspberry-pi)
+* [Jupyter Notebook Server on Raspberry Pi](https://github.com/kleinee/jns)
+* [Tensorflow for Raspberry Pi](https://github.com/samjabrahams/tensorflow-on-raspberry-pi)
 
